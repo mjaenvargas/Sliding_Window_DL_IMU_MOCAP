@@ -1,9 +1,7 @@
 # Sliding_Window_DL_IMU_MOCAP
 
-[![DOI](https://zenodo.org/badge/506383720.svg)](https://zenodo.org/badge/latestdoi/506383720)
-
 ## Code and Dataset
-
+[![DOI](https://zenodo.org/badge/506383720.svg)](https://zenodo.org/badge/latestdoi/506383720)
 
 
 ## Database Attribute Information
