@@ -29,3 +29,6 @@ These are the columns of the csv files:
 - y2
 - z2
 - label
+  
+## Citation
+Milagros Jaén-Vargas. (2022). mjaenvargas/Sliding_Window_DL_IMU_MOCAP: 1.0 (v.0.1.0). Zenodo. https://doi.org/10.5281/zenodo.6793650
